@@ -7,6 +7,7 @@ var engine, world;
 var canvas;
 var palyer, playerBase, playerArcher;
 var playerArrows = [];
+var freddie
 
 
 function preload() {
